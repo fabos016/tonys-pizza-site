@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/tonys-pizza-site/FileContentIndex/1ca9a0ca-c1ab-4905-97c2-32d0f7e471c3.vsidx
+.vs/tonys-pizza-site/FileContentIndex/402b5245-feba-426b-ba7f-0ac966271435.vsidx
+.vs/tonys-pizza-site/FileContentIndex/read.lock
+.vs/tonys-pizza-site/v17/.wsuo
