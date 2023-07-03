@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tonys-pizza-site/static/css/main.0a8da328.css",
-    "main.js": "/tonys-pizza-site/static/js/main.ee25a9d4.js",
+    "main.js": "/tonys-pizza-site/static/js/main.4bbc36fc.js",
     "static/js/787.ed5d663f.chunk.js": "/tonys-pizza-site/static/js/787.ed5d663f.chunk.js",
     "static/media/linktocataloguebanner.png": "/tonys-pizza-site/static/media/linktocataloguebanner.b8d970993699e08e2b67.png",
     "static/media/stuffedcrustbanner.png": "/tonys-pizza-site/static/media/stuffedcrustbanner.92c08154aa572b9ad762.png",
@@ -21,11 +21,11 @@
     "static/media/balancio.png": "/tonys-pizza-site/static/media/balancio.ddfcd48f327cde61d3a1.png",
     "index.html": "/tonys-pizza-site/index.html",
     "main.0a8da328.css.map": "/tonys-pizza-site/static/css/main.0a8da328.css.map",
-    "main.ee25a9d4.js.map": "/tonys-pizza-site/static/js/main.ee25a9d4.js.map",
+    "main.4bbc36fc.js.map": "/tonys-pizza-site/static/js/main.4bbc36fc.js.map",
     "787.ed5d663f.chunk.js.map": "/tonys-pizza-site/static/js/787.ed5d663f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a8da328.css",
-    "static/js/main.ee25a9d4.js"
+    "static/js/main.4bbc36fc.js"
   ]
 }
