@@ -1,8 +1,5 @@
 import React from 'react';
 
-import {Button} from "react-bootstrap";
-import {Link} from 'react-router-dom';
-
 import OrderContent from '../components/OrderContent';
 import NavbarOther from '../components/NavbarOther';
 
